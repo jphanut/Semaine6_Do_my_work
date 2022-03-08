@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646220148 source:/home/margauxhanut/ProjectC/Semaine6_Do_my_work/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
